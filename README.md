@@ -1,0 +1,2 @@
+# vcpkg_install_notes
+vcpkg使用问题及解决方案记录
